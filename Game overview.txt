@@ -1,0 +1,1 @@
+I fixed the issue when i was running the game, added coins for my game and added a terrain and the next class i would try to add the coins which would be collectable and design the game more
